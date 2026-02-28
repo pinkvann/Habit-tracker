@@ -2,27 +2,27 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [Habit tracker] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [Blue team]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Anjaly] - [None]
+
 
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[A habit tracker app that allows users to create daily or weekly habits, set optional deadlines, and mark them as completed each day. The app visually displays progress through a calendar view, streak counters, and simple graphs that show consistency over time. It helps users build routines, stay accountable, and understand their progress in a clear and motivating way.]
 
 ### The Problem statement
-[What problem are you solving?]
+[It solves the problem of inconsistency by helping users clearly track their habits, see their progress, and stay accountable over time.]
 
 ### The Solution
-[How are you solving it?]
+[It solves this by providing users with a simple way to log habits, view their consistency in a calendar format, and track streaks to stay accountable and build routines over time.]
 
 ---
 
@@ -31,25 +31,26 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: [JavaScript (ES6+)]
+- Frameworks used: [React Native, Expo]
+- Libraries used: [AsyncStorage (for local data storage)]
+- Tools used: [google antigravity, chatgpt, gemeni 3 flash, claude]
 
 **For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+- Main components: [Android smartphone (for testing), Laptop/PC (for development)
+- Specifications: [- Laptop/PC: Minimum 8 GB RAM recommended
+  - Android Device: Android 8.0 (Oreo) or above]
+- Tools required: [Expo Go app]
 
 ---
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: [Set time-based habits (e.g., 15 mins, 25 mins)]
+- Feature 2: [Track habit completion daily]
+- Feature 3: [Level progression system (level up after completing 5 levels)]
+- Feature 4: [Simple and clean user interface]
 
 ---
 
@@ -83,14 +84,14 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1]("C:\Users\91944\Downloads\home.jpg")
+*Home tab showing added habits*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2]("C:\Users\91944\Downloads\Habits.jpg")
+*Time-based habit tracking interface*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3]("C:\Users\91944\Downloads\Drawing Habit.jpg")
+*Level progression after completing 5 milestones*
 
 #### Diagrams
 
@@ -101,7 +102,7 @@ List the key features of your project:
 
 **Application Workflow:**
 
-![Workflow](docs/workflow.png)
+![Workflow]([docs/workflow.png](https://drive.google.com/file/d/17XaXfYCRreJgne221_YOnC_scG6e30cJ/view?usp=drivesdk))
 *Add caption explaining your workflow*
 
 ---
